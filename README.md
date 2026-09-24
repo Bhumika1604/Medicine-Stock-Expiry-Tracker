@@ -91,7 +91,7 @@ Permissions are enforced through Laravel route middleware and role-based access 
 | Technology | Purpose |
 |---|---|
 | PHP 8.2+ | Backend programming |
-| Laravel 11 | PHP web application framework |
+| Laravel 12 | PHP web application framework |
 | MySQL 8.x | Relational database |
 | Eloquent ORM | Database operations |
 | Blade | Server-side templating |
